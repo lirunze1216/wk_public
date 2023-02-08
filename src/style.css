@@ -1,0 +1,11 @@
+:root {
+  font-size: 13px;
+}
+
+#app {
+  padding: 70px 0;
+  height: 100%;
+}
+a {
+  color: #000;
+}
